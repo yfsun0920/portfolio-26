@@ -26,7 +26,7 @@ a { color: inherit; text-decoration: none; }
 .project-title h2 { margin:0; font-size:15px; line-height:1.42; font-weight:500; letter-spacing:-.025em; }
 .project-title h2 span { display:inline; color:#777; font-weight:400; margin-left:2px; }
 .project-logo { width:20px; height:20px; flex:none; object-fit:cover; }
-.coinbase-project-logo { display:inline-block; border:3px solid #0052ff; border-right-color:transparent; border-radius:50%; }
+.coinbase-project-logo { border-radius:0; }
 .hackquest-logo { border-radius:5px; }
 .project-heading > p { margin:11px 0 0; color:#777; font-size:14px; line-height:1.5; }
 .project-image { display:block; overflow:hidden; width:100%; border-radius:12px; aspect-ratio:4 / 3; }
